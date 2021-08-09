@@ -1,7 +1,7 @@
 ### Hi, I'm Jimmy <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="30px">
 #### Welcome to my world 👨🏻‍💻
 
-<a href="www.linkedin.com/in/ruiquan-liu">
+<a href="https://www.linkedin.com/in/ruiquan-liu">
   <img align="left" alt="JImmy leo | Medium" width="21px" src="https://github.com/lau1944/lau1944/blob/main/assets/linkedln.png" />
 </a>
 
