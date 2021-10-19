@@ -14,7 +14,7 @@
 
 I'm a full stack developer from China
 <br />
-| *#Mobile Developer* | Java 🧡 &nbsp; | Kotlin 💜  &nbsp; | Flutter 💙 &nbsp; | Nodejs 💚
+| *#Mobile Developer* | Java 🧡 &nbsp; | Kotlin 💜  &nbsp; | Flutter 💙 &nbsp; | Spring 💚
 
 <a href="https://github.com/lau1944/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lau1944&theme=onedark&hide=javascript,html,css,objective-c" />
