@@ -23,3 +23,4 @@ Java 🧡 &nbsp; | Kotlin 💜  &nbsp; | Flutter 💙 &nbsp; | Spring 💚
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=lau1944&show_icons=true&theme=onedark&line_height=27" alt="CoderJava github stats" />
 </a>
 
+![Snake animation](https://github.com/preethamb97/preethamb97/blob/output/github-contribution-grid-snake.svg)
