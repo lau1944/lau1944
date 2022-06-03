@@ -1,4 +1,4 @@
-### Hi, I'm Jimmy <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="30px">
+### Hi, I'm Jimmy <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="30px" height="30px">
 #### Welcome to my world 👨🏻‍💻
 
 <a href="https://www.linkedin.com/in/ruiquan-liu">
