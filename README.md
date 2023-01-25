@@ -16,11 +16,8 @@ I'm a full stack developer from China
 <br />
 Java 🧡 &nbsp; | Kotlin 💜  &nbsp; | Flutter 💙 &nbsp; | Spring 💚 | Nodejs 🤎
 
-<a href="https://github.com/lau1944/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lau1944&theme=onedark&hide=javascript,html,css,objective-c" />
-</a>
-<a href="https://github.com/lau1944a/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=lau1944&show_icons=true&theme=onedark&line_height=27" alt="CoderJava github stats" />
-</a>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lau1944&layout=compact)](https://github.com/lau1944/github-readme-stats)
+
+![Lau1944's GitHub stats](https://github-readme-stats.vercel.app/api?username=lau1944)
 
 ![Snake animation](https://github.com/preethamb97/preethamb97/blob/output/github-contribution-grid-snake.svg)
